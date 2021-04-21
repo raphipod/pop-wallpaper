@@ -5,6 +5,6 @@ Community-hosted artwork repository for Pop!_OS, from people all around the worl
 
 - Minimum size of picture: 3840 x 2160 (higher allowed)
 - Pictures should be **your own work**, not stolen from others, if not descripted otherwise
-- Do not use upscaled/downscaled version, just the pure "pixels".
+- Do not use upscaled/downscaled version, just the pure "source".
 
 Thanks for all contributions!
