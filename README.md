@@ -7,4 +7,9 @@ Community-hosted artwork repository for Pop!_OS, from people all around the worl
 - Pictures should be **your own work**, not stolen from others, if not descripted otherwise
 - Do not use upscaled/downscaled version, just the pure "source".
 
+### Art included:
+
+- Own work
+- Dynamic Wallpapers by u/Insightful_Abyss (thanks!)
+
 Thanks for all contributions!
