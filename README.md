@@ -11,5 +11,6 @@ Community-hosted artwork repository for Pop!_OS, from people all around the worl
 
 - Own work
 - Dynamic Wallpapers by u/Insightful_Abyss (thanks!)
+- Colorful Default Wallpapers by u/AI_Spawn (thanks!)
 
 Thanks for all contributions!
