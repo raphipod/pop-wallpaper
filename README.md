@@ -2,7 +2,7 @@
 
 Community-hosted artwork repository for Pop!_OS, from people all around the world.
 
-![evening.png](https://github.com/raphipod/pop-wallpaper/blob/master/Dynamic%20Wallpapers/evening.png)
+![neon-sun-without-underscore.png](https://github.com/raphipod/pop-wallpaper/blob/master/Neon%20Sun/neon-sun-without-underscore.png)
 
 ### Regulations:
 
